@@ -88,6 +88,9 @@ to optimize content for AI discoverability is a critical and emerging
 engineering skill.
 
 ---
+Note: The automated tester requires OpenAI API credits.
+If unavailable, results can be collected manually using ChatGPT, Gemini, Claude or Copilot.
+---
 
 ## 👤 Author
 

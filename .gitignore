@@ -4,3 +4,10 @@ desktop.ini
 
 # VS Code
 .vscode/
+
+# Environment variables
+.env
+
+__pycache__/
+*.pyc
+results/

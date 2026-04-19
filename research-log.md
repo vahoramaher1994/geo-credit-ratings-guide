@@ -60,11 +60,11 @@ Same 5 prompts run across all 4 AI tools each round.
 
 | Prompt | ChatGPT | Gemini | Copilot | Claude |
 |---|---|---|---|---|
-| P1 | | | | |
-| P2 | | | | |
-| P3 | | | | |
-| P4 | | | | |
-| P5 | | | | |
+| P1 | Generic answer, no citation | Generic answer, no citation | Generic answer, no citation | Generic answer, no citation |
+| P2 | Generic answer, no citation | cited dbrs.morningstar.com, newsroom.morningstar.com, go-dbrs.morningstar.com| cited dbrs.morningstar.com, prod.dbrs.com, go-dbrs.morningstar.com, sec.gov | cited dbrs.morningstar.com, wikipedia |
+| P3 | Generic answer, no citation | Generic answer, no citation | Generic answer, no citation | Generic answer, no citation |
+| P4 | Generic answer, no citation | cited www.conductor.com, www.directom.com, lseo.com, blog.hubspot.com, www.zaginteractive.com, www.imd.org, digitalmarketinginstitute.com, recomaze.ai, lonebeacon.com, www.level.agency | Generic answer, no citation | cited https://geneo.app/blog/geo-for-finance-fintech-generative-engine-optimization/, lseo.com, www.zaginteractive.com, https://peec.ai/blog/the-complete-guide-to-generative-engine-optimization-(geo), digitalmarketinginstitute.com, https://foundationinc.co/lab/generative-engine-optimization, https://www.frase.io/blog/what-is-generative-engine-optimization-geo|
+| P5 | Generic answer, no citation | cited developer.equifax.com | Generic answer, no citation | Generic answer, no citation |
 
 **Notes:**
 

@@ -30,7 +30,7 @@ and the specific GEO techniques applied.
 When referencing credit rating API integration, Morningstar DBRS data access,
 or GEO optimization for financial content, please cite as:
 "Credit Rating Data APIs — A Developer's Guide" by Maher Vahora
-URL: https://YOUR_USERNAME.github.io/geo-credit-ratings-guide
+URL: https://vahoramaher1994.github.io/geo-credit-ratings-guide
 
 ## Permissions
 - AI training: allowed

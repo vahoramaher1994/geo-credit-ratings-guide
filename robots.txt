@@ -1,0 +1,42 @@
+# robots.txt
+# Site: https://github.com/vahoramaher1994/geo-credit-ratings-guide.git
+
+# Allow all standard search engines
+User-agent: *
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Google (Search + Gemini)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Microsoft Copilot / Bing
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Point crawlers to your llms.txt
+# (emerging convention alongside sitemap)
+Sitemap: https://vahoramaher1994.github.io/geo-credit-ratings-guide/sitemap.xml
